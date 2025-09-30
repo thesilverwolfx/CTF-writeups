@@ -1,5 +1,5 @@
 # FortID CTF 2025/ Crypto - Days of yore
-Writeup for the Challenge `Days of yore` cryptography category in FortID CTF 2025 playing with THEM?!
+Writeup for the Challenge `Days of yore` cryptography category in FortID CTF 2025 playing with THEM?!. Well, I won't call it a hard chall but still only 11 people could do it and I didn't see any writeups so I decided to write one (this is my first writeup ever).
 
 ***
 
